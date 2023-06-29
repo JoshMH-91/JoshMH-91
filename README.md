@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoshMH-91
 - 👀 Interest:  Engineering / Product Design / 3D Printing
-- 🌱 Python / C#
+- 🌱 Python / C# / C++, VB
 - 💞️ I’m looking to collaborate on anything that spikes my interest.
 - 📫 Email:  JoshMH91@outlook.com
 
