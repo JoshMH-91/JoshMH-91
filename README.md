@@ -1,4 +1,4 @@
-<h3>👱‍♂️ About Me</h3>
+<h3>About Me</h3>
 • 👋 Hi, I’m @JoshMH-91
 <br/>
 • 👀 Interest:  Engineering / Product Design / 3D Printing
