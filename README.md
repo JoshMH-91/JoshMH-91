@@ -14,7 +14,7 @@ Load Cells
 <br/>
 • <a href="https://github.com/JoshMH-91/ESP32-WiFi-Load-Cell-Monitor">ESP-32-WiFi-Load-Cell-Monitor</a>
 <br/>
-• <a href="https://github.com/JoshMH-91/ESP32-STONE-HMI-Load-Cell-Monitor">ESP32-STONE-HMI-Load-Cell-Monitor</a>
+• <a href="https://github.com/JoshMH-91/Arduino-STONE-HMI-Load-Cell-Monitor">Arduino-STONE-HMI-Load-Cell-Monitor</a>
 <br/>
 <br/>
 <a href="https://www.buymeacoffee.com/JoshMH91" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="50" width="200"></a>
