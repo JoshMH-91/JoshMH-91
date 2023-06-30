@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @JoshMH-91
-- 👀 Interest:  Engineering / Product Design / 3D Printing
-- 🌱 Python / C# / C++, VB
-- 💞️ I’m looking to collaborate on anything that spikes my interest.
-- 📫 Email:  JoshMH91@outlook.com
-<br/><br/>
+<h3>👱‍♂️ About Me</h3>
+• 👋 Hi, I’m @JoshMH-91
+<br/>
+• 👀 Interest:  Engineering / Product Design / 3D Printing
+<br/>
+• 🌱 Python / C# / C++, VB
+<br/>
+• 💞️ I’m looking to collaborate on anything that spikes my interest.
+<br/>
+• 📫 Email:  JoshMH91@outlook.com
+<br/>
+<h3>🔨 Engineering Tools</h3>
+Load Cells
+<br/>
+• <a href="https://github.com/JoshMH-91/ESP32-WiFi-Load-Cell-Monitor">ESP-32-WiFi-Load-Cell-Monitor</a>
+<br/>
+• <a href="https://github.com/JoshMH-91/ESP32-STONE-HMI-Load-Cell-Monitor">ESP32-STONE-HMI-Load-Cell-Monitor</a>
+<br/>
+<br/>
 <a href="https://www.buymeacoffee.com/JoshMH91" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="50" width="200"></a>
 
 <!---
